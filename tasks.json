@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1732855198951",
+    "name": "lab",
+    "description": "practicals",
+    "deadline": "2025-12-20"
+  },
+  {
+    "id": "1732855310266",
+    "name": "main project",
+    "description": "final ",
+    "deadline": "2024-11-22"
+  },
+  {
+    "id": "1732856011974",
+    "name": "Akash",
+    "description": "student",
+    "deadline": "2001-08-14"
+  },
+  {
+    "id": "1734242332529",
+    "name": "admin",
+    "description": "practicals",
+    "deadline": "2000-08-14"
+  }
+]
